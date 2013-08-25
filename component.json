@@ -5,6 +5,9 @@
   "description": "Firepad packaged as a component.",
   "keywords": ["firebase", "firepad"],
   "license": "MIT",
+  "dependencies": {
+    "benatkin/codemirror": "*"
+  },
   "scripts": ["firepad.js"],
   "styles": ["firepad.css"],
   "main": "firepad.js"
