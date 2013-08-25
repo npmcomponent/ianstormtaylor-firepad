@@ -1,0 +1,11 @@
+{
+  "name": "firepad",
+  "version": "0.0.0",
+  "repo": "ianstormtaylor/firepad",
+  "description": "Firepad packaged as a component.",
+  "keywords": ["firebase", "firepad"],
+  "license": "MIT",
+  "scripts": ["firepad.js"],
+  "styles": ["firepad.css"],
+  "main": "firepad.js"
+}
