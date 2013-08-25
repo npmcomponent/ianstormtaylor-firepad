@@ -4014,7 +4014,6 @@ firepad.Firepad = (function(global) {
   var ATTR = firepad.AttributeConstants;
   var utils = firepad.utils;
   var LIST_TYPE = firepad.LineFormatting.LIST_TYPE;
-  var CodeMirror = CodeMirror;
 
   function Firepad(ref, place, options) {
     if (!(this instanceof Firepad)) { return new Firepad(ref, place, options); }
