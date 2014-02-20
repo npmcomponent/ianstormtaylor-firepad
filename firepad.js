@@ -1,5 +1,5 @@
 
-var CodeMirror = require('codemirror');
+var CodeMirror = require('benatkin-codemirror');
 
 
 /*

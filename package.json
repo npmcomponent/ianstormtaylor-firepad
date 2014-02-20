@@ -1,0 +1,17 @@
+{
+  "name": "ianstormtaylor-firepad",
+  "description": "Firepad packaged as a component.",
+  "version": "0.0.0",
+  "keywords": [
+    "firebase",
+    "firepad"
+  ],
+  "main": "firepad.js",
+  "styles": [
+    "firepad.css"
+  ],
+  "dependencies": {
+    "benatkin-codemirror": "git://github.com/npmcomponent/benatkin-codemirror.git"
+  },
+  "license": "MIT"
+}
